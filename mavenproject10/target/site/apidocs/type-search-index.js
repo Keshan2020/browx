@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.mavenproject10","l":"Mavenproject10"},{"p":"com.mycompany.mavenproject10","l":"NewJFrame"},{"p":"com.mycompany.mavenproject10","l":"NewJFrame1"}];updateSearchResults();
